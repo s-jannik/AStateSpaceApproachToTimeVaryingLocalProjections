@@ -12,7 +12,7 @@ To ensure correct implementation of the Kalman Filter and Kalman Filter Smoother
 | :-------- | :------- |
 |main.R| runs the simulation study and empirical study|
 |kf_kfs.R| contains the Kalman Filter recursions, Kalman Filter Smoother recursions and implementations of state space models used to replicate figures from Durbin and Koopman (2012)|
-|tvplp.R| contains the TVP-LP implementation|
+|tvplp.R| contains the TVP-LP implementation, relying on the Kalman Filter and Kalman Filter Smoother implementations in kf_kfs.R|
 |studies.R| contains function used for the simulation study and the empirical study|
 |support_functions.R| contains various functions for data cleaning and manipulation as well as stationarity transformation functions|
 |function_testing.R| contains code replicating figures from Durbin and Koopman (2012)|
