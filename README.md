@@ -16,8 +16,8 @@ This repository contains R code accompanying my paper titled A State Space Appro
 |blank.csv| contains data on blank|
 
 
-## Image test
-[Rplot.pdf](https://github.com/s-jannik/AStateSpaceApproachToTimeVaryingLocalProjections/files/13795711/Rplot.pdf)
+## Replication figures
+![replication_filter](https://github.com/s-jannik/AStateSpaceApproachToTimeVaryingLocalProjections/assets/143873944/1cc1ad61-6730-4c67-b48c-432ef9466a36)
 
-![cpi4_ir0_ur4_surface](https://github.com/s-jannik/AStateSpaceApproachToTimeVaryingLocalProjections/assets/143873944/3a601bb7-93e8-48d0-a56f-789f94663140)
+![replication_smoother](https://github.com/s-jannik/AStateSpaceApproachToTimeVaryingLocalProjections/assets/143873944/34402f1f-549f-459d-a968-8a30a1fe0f02)
 
